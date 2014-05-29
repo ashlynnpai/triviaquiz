@@ -1,7 +1,9 @@
 triviaquiz
 ==========
 
-A basic trivia quiz
+A no-frills trivia quiz
+
+Third commit -- Added styling, validation, tracks question number.
 
 Second commit -- Added a back button.  Still not pretty.
 
