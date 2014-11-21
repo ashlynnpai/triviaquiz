@@ -1,0 +1,12 @@
+{
+  "1":
+  {"question": "Which politician was a Senator of New York?", "choices": ["Reagan", "Bush", "Clinton", "Obama"], "answer": 2},
+  "2":
+  {"question": "What is the capital of Bulgaria?", "choices": ["Bucharest", "Bulgar", "Kiev", "Sofia"], "answer": 3}, 
+  "3":
+  {"question": "Which of these is a prime number?", "choices": ["367", "377", "387", "407"], "answer": 0}, 
+  "4":
+  {"question": "Which team won the first Superbowl?", "choices": ["Chiefs", "Packers", "Bears", "Broncos"], "answer": 1}, 
+  "5":
+  {"question": "Who wrote the music for Les Miserables?", "choices": ["John Williams", "Lloyd Webber", "Rodgers & Hammerstein", "Boublil & Schonberg"], "answer": 3}
+}
